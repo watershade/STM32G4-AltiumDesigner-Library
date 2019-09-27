@@ -1,0 +1,163 @@
+CSV text has been written to file : ST Microelectronics STM32 G4.csv
+
+Library Component Count : 102
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+STM32G431C6Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431C6Ux       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431C8Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431C8Ux       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431CBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431CBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431CBYx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431K6Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431K6Ux       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431K8Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431K8Ux       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431KBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431KBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431R6Ix       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431R6Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431R8Ix       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431R8Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431RBIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431RBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G431V6Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 32Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G431V8Tx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 64Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G431VBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G441CBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441CBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441CBYx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441KBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441KBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441RBIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441RBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G441VBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471CBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+STM32G471CBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471CCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471CCUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471CETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator,Medium Analog level integration
+
+STM32G471CEUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471METx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471QBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471QCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471QETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471RBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471RCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471RETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VBHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VBIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VCHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VCIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VEHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VEIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G471VETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, Medium Analog level integration
+
+STM32G473CBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473CBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473CCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473CCUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473CETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473CEUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473MEYx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473QBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473QCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473QETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473RBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473RCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473RETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+STM32G473VBHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VBIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VCIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VEHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VEIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G473VETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration
+
+STM32G474CBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474CBUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474CCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474CCUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474CETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474CEUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474METx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474QBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474QCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474QETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474RBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474RCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474RETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+STM32G474VBHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VBIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VBTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 128Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VCHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VCIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VCTx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 256Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VEHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VEIx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G474VETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+
+STM32G484CETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto AES-256
+STM32G484CEUx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto AES-256
+STM32G484METx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, High Analog level integration, Crypto AES-256
+
+STM32G484QETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto AES-256
+
+STM32G484RETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto AES-256
+STM32G484VEHx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto AES-256
+
+STM32G484VETx       Mainstream Arm Cortex-M4 core with DSP and FPU, 170MHz with 512Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto AES-256
+
