@@ -20,7 +20,7 @@ The STM32G4x4 Hi-resolution line specifically addresses digital power conversion
 
 
 ## The library List
-This library includes 12 packages and 102 devices. Here is the pakages list: 
+This library includes 13 packages and 102 devices. Here is the pakages list: 
 LQFP32 7x7x1.4:
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 	STM32G431K6Tx
